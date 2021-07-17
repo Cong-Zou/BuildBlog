@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Homepage for Cong
-subtitle: 'Homepage for Cong'
-description: 'A personal blog to share his experiences, thoughts and creations'
-keywords: 'Cong Zou, Life, Arts, Inspirations'
+title: Cong Zou
+subtitle: Homepage
+description: A personal blog to share his experiences, thoughts and creations
+keywords: Cong Zou, Life, Arts, Inspirations
 author: Cong Zou
 language: en
-timezone: ''
+timezone: 
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: 'https://cong-zou.github.io'
+url: 'https://congzou.space'
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
