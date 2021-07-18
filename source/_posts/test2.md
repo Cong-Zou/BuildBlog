@@ -4,4 +4,4 @@ date: 2021-07-17 22:17:24
 tags: [tag2]
 categories: [cat2]
 ---
-This is for the use of test2.
+这是中文测试二。
